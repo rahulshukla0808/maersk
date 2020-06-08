@@ -1,0 +1,13 @@
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\bin\Debug\netcoreapp3.1\SkuProject.exe
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\bin\Debug\netcoreapp3.1\SkuProject.deps.json
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\bin\Debug\netcoreapp3.1\SkuProject.runtimeconfig.json
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\bin\Debug\netcoreapp3.1\SkuProject.runtimeconfig.dev.json
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\bin\Debug\netcoreapp3.1\SkuProject.dll
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\bin\Debug\netcoreapp3.1\SkuProject.pdb
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\obj\Debug\netcoreapp3.1\SkuProject.csprojAssemblyReference.cache
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\obj\Debug\netcoreapp3.1\SkuProject.csproj.CoreCompileInputs.cache
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\obj\Debug\netcoreapp3.1\SkuProject.AssemblyInfoInputs.cache
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\obj\Debug\netcoreapp3.1\SkuProject.AssemblyInfo.cs
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\obj\Debug\netcoreapp3.1\SkuProject.dll
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\obj\Debug\netcoreapp3.1\SkuProject.pdb
+C:\Users\Ei11819\Desktop\Maersk\SKu Unit\SkuProject\SkuProject\obj\Debug\netcoreapp3.1\SkuProject.genruntimeconfig.cache
